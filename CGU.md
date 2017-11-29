@@ -84,7 +84,7 @@ Etalab propose deux types de certifications des organisations :
 - la certification de service public : elle identifie les Autorités administratives,
 - la certification d'authenticité de l'organisation.
 
-Pour être certifiée, l'organisation en fait la demande par courriel à : <certification@data.gouv.fr>.
+Pour être certifiée, l'organisation en fait la demande par courriel à : [certification@data.gouv.fr](mailto:certification@data.gouv.fr).
 
 Cette certification permet notamment de bénéficier d'un meilleur classement dans les résultats du moteur de recherche de la plateforme. La certification d'une organisation n'emporte pas la certification des Jeux de données qu'elle met à disposition.
 
@@ -120,9 +120,9 @@ Lorsque l'Autorité administrative ou le Contributeur publie un jeu de données 
 
 #### Licences
 
-Les Autorités administratives publient leurs Jeux de données sous Licence Ouverte ou ODbL, sauf homologation spécifique de licence (voir : <https://www.data.gouv.fr/licences>).
+Les Autorités administratives publient leurs Jeux de données sous Licence Ouverte ou ODbL, sauf homologation spécifique de licence (voir : https://www.data.gouv.fr/licences).
 
-Les autres Contributeurs publient leurs Jeux de données sous Licence Ouverte ou l'une des licences conformes à l_'open definition_ (voir : <http://opendefinition.org/licenses/>).
+Les autres Contributeurs publient leurs Jeux de données sous Licence Ouverte ou l'une des licences conformes à l'_open definition_ (voir : http://opendefinition.org/licenses).
 
 Les ressources des Jeux de données sont soumises à la licence choisie par le Contributeur publiant les données et affichée sur la page de chaque Jeu de données.
 
@@ -132,7 +132,7 @@ Les discussions ont vocation à porter sur le Jeu de données publié. Les Contr
 
 Les Contributeurs publiant un commentaire dans une discussion cèdent leurs droits de propriété intellectuelle sur ceux-ci de façon non exclusive, à titre gracieux, pour le monde entier, pour toute la durée de ces droits.
 
-### Utilisation de contact <info@data.gouv.fr>
+### Utilisation de contact [info@data.gouv.fr](mailto:info@data.gouv.fr)
 
 L'adresse de contact permet de contacter Etalab et n'a pas pour objet de recevoir des demandes relatives à la situation individuelle d'un usager dans ses relations avec une Autorité administrative. Elle n'est pas non plus un moyen direct de contacter un Contributeur. Les Contributeurs peuvent être contactés via le formulaire de contact sur la page du Jeu de données concerné.
 
@@ -168,7 +168,7 @@ Etalab choisit de mettre en avant certains contenus à travers les rubriques « 
 
 Les contenus proposés par Etalab sont sous [Licence Ouverte](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf), à l'exception des logos et des représentations iconographiques et photographiques qui peuvent être régis par leurs licences propres.
 
-Le code source de la plateforme est libre et disponible ici : <https://github.com/opendatateam/udata>.
+Le code source de la plateforme est libre et disponible ici : https://github.com/opendatateam/udata.
 
 ### Evolution des conditions d'utilisation
 
@@ -194,7 +194,7 @@ La page de profil du Contributeur comprend ses prénom et nom et des éléments 
 
 L'historique de consultation de l'Utilisateur n'est jamais rendu public, ni communiqué à des tiers, en dehors des cas prévus par la loi.
 
-En application de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, l'Utilisateur dispose d'un droit d'accès, de rectification et d'opposition auprès d'Etalab. Ce droit s'exerce par courriel adressé à <contact@data.gouv.fr> ou par voie postale à Mission Etalab, Tour Mirabeau 39-43 quai André-Citroën 75015 Paris.
+En application de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, l'Utilisateur dispose d'un droit d'accès, de rectification et d'opposition auprès d'Etalab. Ce droit s'exerce par courriel adressé à [contact@data.gouv.fr](mailto:contact@data.gouv.fr) ou par voie postale à Mission Etalab, Tour Mirabeau 39-43 quai André-Citroën 75015 Paris.
 
 La Plateforme a été déclarée à la Commission Nationale de l'Informatique et des Libertés (CNIL) sous le numéro : eRa0876341t.
 
