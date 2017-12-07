@@ -21,7 +21,7 @@ Est défini comme :
 
 ou dans le but de discuter ou de diffuser une réutilisation ;
 
-**Informations publiques** : informationsfigurant dans des documents produits ou reçus par des Autorités administratives, communicables à toute personne ou ayant fait l'objet d'une diffusion publique conforme aux articles [L. 312-1 à L. 312-1-2](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&amp;idArticle=LEGIARTI000031367739&amp;dateTexte=&amp;categorieLien=cid) du CRPA) et sur lesquelles des tiers ne détiennent pas de droit de propriété intellectuelle(articles L. 321-1 et suivants) ;
+**Informations publiques** : informations figurant dans des documents produits ou reçus par des Autorités administratives, communicables à toute personne ou ayant fait l'objet d'une diffusion publique conforme aux articles [L. 312-1 à L. 312-1-2](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&amp;idArticle=LEGIARTI000031367739&amp;dateTexte=&amp;categorieLien=cid) du CRPA et sur lesquelles des tiers ne détiennent pas de droit de propriété intellectuelle (articles L. 321-1 et suivants) ;
 
 **Jeu de données** : ensemble cohérent de ressources ou d'informations (fichiers de données, fichiers d'explications, API, lien...) et de métadonnées (présentation, date de publication, mots-clefs, couverture géographique/temporelle...), sur un thème donné ;
 
