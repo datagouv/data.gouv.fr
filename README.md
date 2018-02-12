@@ -2,7 +2,7 @@
 
 Bonjour et bienvenue sur le dépôt de Data.gouv.fr
 
-Ce dépôt ne contient pas de code mais permet de centraliser la connaissance sur Data.gouv.fr.
+Ce dépôt ne contient pas de code mais permet de centraliser la connaissance sur Data.gouv.fr.  
 
 Aujourd'hui, vous pouvez:
 - [rapporter un bug](https://github.com/etalab/data.gouv.fr/issues/new)
@@ -10,3 +10,5 @@ Aujourd'hui, vous pouvez:
 - [en savoir plus sur le fonctionnement interne de Data.gouv.fr et de son équipe](https://github.com/etalab/data.gouv.fr/wiki)
 
 Ce dépôt contient aussi [les conditions générales d'utilisation de Data.gouv.fr](https://github.com/etalab/data.gouv.fr/blob/master/CGU.md) sur lesquelles vous pouvez nous signaler des erreurs ou proposer des modifications
+
+Le code source de Data.gouv.fr est [disponible sur le dépôt OpenDataTeam](https://github.com/opendatateam/udata).
