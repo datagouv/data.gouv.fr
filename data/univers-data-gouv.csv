@@ -1,0 +1,7 @@
+site,detail,depot,status,spd,download,api,formulaire,update
+https://www.data.gouv.fr/,Plateforme ouverte des données publiques françaises,https://github.com/etalab/data.gouv.fr,prod,,,https://www.data.gouv.fr/fr/apidoc/,https://www.data.gouv.fr/fr/,continue
+https://adresse.data.gouv.fr,Base Adresse Nationale,https://github.com/etalab/adresse.data.gouv.fr,prod,true,true,http://api-adresse.data.gouv.fr/api,https://adresse.data.gouv.fr/map/,hebdo
+https://cadastre.data.gouv.fr,Données Cadastrales Ouvertes,https://github.com/etalab/cadastre.data.gouv.fr,prod,true,true,,,trimestriel
+https://geo.data.gouv.fr,,https://github.com/etalab/geo.data.gouv.fr,prod,,,,https://geo.data.gouv.fr/fr/,continue
+https://doc.data.gouv.fr,,,,,,,,
+https://entreprise.data.gouv.fr,,,beta,true,,https://github.com/betagouv/sirene_as_api/blob/master/README.md,https://entreprise.data.gouv.fr,quotidienne
