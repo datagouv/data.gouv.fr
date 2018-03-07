@@ -5,3 +5,4 @@ https://cadastre.data.gouv.fr,Données Cadastrales Ouvertes,https://github.com/e
 https://geo.data.gouv.fr,,https://github.com/etalab/geo.data.gouv.fr,prod,,,,https://geo.data.gouv.fr/fr/,continue
 https://doc.data.gouv.fr,,,,,,,,
 https://entreprise.data.gouv.fr,,,beta,true,,https://github.com/betagouv/sirene_as_api/blob/master/README.md,https://entreprise.data.gouv.fr,quotidienne
+http://transport.data.gouv.fr/,,,beta,false,true,false,,continue
