@@ -5,7 +5,7 @@ about: Créer un ticket pour nous demander de corriger un bug
 ---
 
 ## Description du bug
-Qu’est-ce qui cloche ? Décrivez le bug en quelques phrases. Si possible, ajoutez des captures ou des enregistrements de votre écran pour nous aider à visualiser le problème.
+Qu’est-ce qui cloche ? Décrivez le bug en quelques phrases. Si possible, ajoutez des captures ou des enregistrements de votre écran pour nous aider à visualiser le problème. Si un message d’erreur est apparu sur votre écran, ajoutez-le ici.
 
 ## Comment reproduire le bug
 Étapes à suivre pour faire apparaître le bug :
