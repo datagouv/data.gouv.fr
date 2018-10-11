@@ -1,17 +1,11 @@
 ---
 name: Demande de fonctionnalité
-about: Créez un ticket pour nous suggérer une fonctionnalité
+about: Créer un ticket pour nous suggérer une fonctionnalité
 
 ---
 
-## Votre demande de fonctionnalité résulte-t-elle d’une frustration ?
-Si oui, décrivez le problème auquel vous faites face. Exemple : « Je suis frustré de ne pas pouvoir… »
+## La fonctionnalité que vous avez en tête
+Décrivez ce que vous aimeriez pouvoir faire. Exemple : « J’aimerais avoir la possibilité de… ». Si possible, ajoutez des captures ou des enregistrements de votre écran pour nous aider à visualiser la fonctionnalité.
 
-## La solution que vous proposez
-Décrivez ce que vous aimerez qu’il se passe.
-
-## Les alternatives que vous considérez
-Décrivez les autres solutions possibles au problème que vous soulevez.
-
-## Contexte supplémentaire
-[Facultatif] Dites-nous en plus sur votre suggestion : contexte, capture d’écran, image, gif…
+## Les alternatives possibles
+Si possible, décrivez d’autres façons de parvenir au résultat que vous espérez atteindre.
