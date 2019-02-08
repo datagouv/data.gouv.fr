@@ -214,11 +214,11 @@ Les textes d'organisation d'Etalab
 
 ### Editeur
 
-Mission Etalab, Direction interministérielle du numérique et du système d'information et de communication de l'Etat (DINSIC), Secrétariat général pour la modernisation de l'action publique (SGMAP).
+Mission Etalab, Direction interministérielle du numérique et du système d'information et de communication de l'Etat (DINSIC).
 
 ### Directrice de la publication
 
-M<sup>me</sup> Laure LUCCHESI, Cheffe de la Mission Etalab, Direction interministérielle du numérique et du système d'information et de communication de l'Etat (DINSIC), Secrétariat général pour la modernisation de l'action publique (SGMAP).
+M<sup>me</sup> Laure LUCCHESI, Cheffe de la Mission Etalab, Direction interministérielle du numérique et du système d'information et de communication de l'Etat (DINSIC).
 
 ### Prestataire d'hébergement
 
