@@ -2,7 +2,7 @@
 
 Ce dépôt ne contient pas de code, il sert uniquement de guichet technique à la plateforme [data.gouv.fr](https://www.data.gouv.fr/fr/).
 
-Pour voir le code de [data.gouv.fr](https://www.data.gouv.fr/fr/), reportez vous aux dépôts&nbsp;:
+Pour voir le code de [data.gouv.fr](https://www.data.gouv.fr/fr/), reportez-vous aux dépôts&nbsp;:
 
 * [etalab/udata-gouvfr](https://github.com/etalab/udata-gouvfr), pour le thème de data.gouv.fr&nbsp;;
 * [opendatateam/udata](https://github.com/opendatateam/udata), pour le moteur de data.gouv.fr.
