@@ -172,7 +172,7 @@ Les contenus proposés par Etalab sont sous [Licence Ouverte](https://www.etalab
 
 Le code source de la plateforme est libre et disponible ici : https://github.com/opendatateam/udata.
 
-### Evolution des conditions d'utilisation
+### Évolution des conditions d'utilisation
 
 Les termes des présentes conditions d'utilisation peuvent être amendés à tout moment, sans préavis, en fonction des modifications apportées à la plateforme, de l'évolution de la législation ou pour tout autre motif jugé nécessaire.
 
