@@ -67,7 +67,7 @@ Le contributeur dispose de fonctionnalités « communautaires », notamment :
 
 Il dispose également d'autres fonctionnalités telles que le suivi d'un jeu de données ou d'une organisation ; le partage et l'intégration d'un jeu de données ou d'une ressource directement sur un autre site.
 
-Enfin, il peut participer au contrôle de la qualité de la plateforme en signalant les contenus n'ayant pas vocation à y figurer (illicites ou contraires aux CGU). Il peut également contacter directement le Contributeur ayant publié un jeu de données.
+Enfin, il peut participer au contrôle de la qualité de la plateforme en signalant les contenus n'ayant pas vocation à y figurer (illicites ou contraires aux CGU). Il peut également contacter directement le contributeur ayant publié un jeu de données.
 
 ### Organisations et fonctionnalités liées
 
@@ -132,7 +132,7 @@ Les ressources des jeux de données sont soumises à la licence choisie et affic
 
 Les discussions ont vocation à porter sur le jeu de données publié. Les contributeurs ne publient pas de messages de nature publicitaire ou promotionnelle, à caractère raciste ou diffamatoire, grossier ou injurieux, agressif ou violent ou de façon générale qui contreviendrait aux bonnes mœurs, l'ordre public ou aux dispositions légales en vigueur.
 
-Les Contributeurs publiant un commentaire dans une discussion cèdent leurs droits de propriété intellectuelle sur ceux-ci de façon non exclusive, à titre gracieux, pour le monde entier, pour toute la durée de ces droits.
+Les contributeurs publiant un commentaire dans une discussion cèdent leurs droits de propriété intellectuelle sur ceux-ci de façon non exclusive, à titre gracieux, pour le monde entier, pour toute la durée de ces droits.
 
 ### Utilisation de contact [info@data.gouv.fr](mailto:info@data.gouv.fr)
 
@@ -158,13 +158,13 @@ Etalab se réserve également la liberté de faire évoluer, de modifier ou de s
 
 Etalab est responsable des contenus qu'Etalab propose afin d'animer la plateforme.
 
-Etalab n'effectue pas de contrôle _a priori_ sur les publications des autorités administratives ou des contributeurs sur la plateforme. Dès qu'Etalab a connaissance de contenus illicites, Etalab agit rapidement pour retirer ces données ou en rendre l'accès impossible. À cette fin, une procédure de signalement est mise en place sur la Plateforme. Tout utilisateur peut signaler un contenu non conforme aux présentes conditions d'utilisation. Etalab se réserve notamment la possibilité de supprimer ou de rendre inaccessibles, sans préavis, les contributions sans lien avec l'activité de la plateforme, publiées aux fins d'entraver le bon fonctionnement de la plateforme, de publicité ou de promotion, de propagande ou de prosélytisme et toute contribution contrevenant aux lois et règlements en vigueur. Etalab se réserve également la possibilité de supprimer le profil d'un contributeur et de refuser que certaines personnes aient accès à la plateforme, en cas de violation des présentes conditions d'utilisation.
+Etalab n'effectue pas de contrôle _a priori_ sur les publications des autorités administratives ou des contributeurs sur la plateforme. Dès qu'Etalab a connaissance de contenus illicites, Etalab agit rapidement pour retirer ces données ou en rendre l'accès impossible. À cette fin, une procédure de signalement est mise en place sur la plateforme. Tout utilisateur peut signaler un contenu non conforme aux présentes conditions d'utilisation. Etalab se réserve notamment la possibilité de supprimer ou de rendre inaccessibles, sans préavis, les contributions sans lien avec l'activité de la plateforme, publiées aux fins d'entraver le bon fonctionnement de la plateforme, de publicité ou de promotion, de propagande ou de prosélytisme et toute contribution contrevenant aux lois et règlements en vigueur. Etalab se réserve également la possibilité de supprimer le profil d'un contributeur et de refuser que certaines personnes aient accès à la plateforme, en cas de violation des présentes conditions d'utilisation.
 
 ### Transparence sur le classement et mises en avant
 
 L'ordre de classement des jeux de données issu du moteur de recherche de la plateforme est issu d'un algorithme libre, dont [le code source est disponible ici](https://github.com/opendatateam/udata/tree/master/udata/search).
 
-Etalab choisit de mettre en avant certains contenus à travers les rubriques « L'Actu en données », « Jeux de données à la une » et « Meilleures Réutilisations », sur les pages d'accueil de la Plateforme et des rubriques thématiques.
+Etalab choisit de mettre en avant certains contenus à travers les rubriques « L'Actu en données », « Jeux de données à la une » et « Meilleures Réutilisations », sur les pages d'accueil de la plateforme et des rubriques thématiques.
 
 ### Contenus proposés par Etalab
 
@@ -198,7 +198,7 @@ L'historique de consultation de l'utilisateur n'est jamais rendu public, ni comm
 
 En application de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, l'utilisateur dispose d'un droit d'accès, de rectification et d'opposition auprès d'Etalab. Ce droit s'exerce par courriel adressé à [contact@data.gouv.fr](mailto:contact@data.gouv.fr) ou par voie postale à Mission Etalab, 20 avenue de Ségur, 75334 PARIS Cedex 07.
 
-La Plateforme a été déclarée à la Commission nationale de l'informatique et des libertés (CNIL) sous le numéro : eRa0876341t.
+La plateforme a été déclarée à la Commission nationale de l'informatique et des libertés (CNIL) sous le numéro : eRa0876341t.
 
 ## Textes de référence
 
