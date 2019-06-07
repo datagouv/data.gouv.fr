@@ -108,7 +108,7 @@ Les Contributeurs sont seuls responsables des données, métadonnées ou contenu
 
 #### Données à caractère personnel
 
-Les Jeux de données contenant des données à caractère personnel, c’est-à-dire des données, y compris non nominatives, permettant la ré-identification de personnes physiques, ne peuvent pas être diffusés par la Plateforme sauf si les personnes concernées ont donné leur accord ou si une disposition législative ou le décret prévu à l’article L. 312-1-2 du CRPA le permet.
+Les Jeux de données contenant des données à caractère personnel, c’est-à-dire des données, y compris non nominatives, permettant la ré-identification de personnes physiques, ne peuvent pas être diffusés par la Plateforme sauf si les personnes concernées ont donné leur accord ou si une disposition législative ou le décret à l’article L. 312-1-2 du CRPA le permet.
 
 Le Contributeur publiant le Jeu de données est responsable des jeux de données qu’il publie sur la Plateforme et s’assure que cette publication est conforme à la législation en vigueur. Il prend toute mesure nécessaire à cette fin et Etalab l’encourage à mentionner la présence de données à caractère personnel dans la documentation accompagnant le Jeu de données et préciser, lorsqu’elles existent, les restrictions juridiques à la Réutilisation.
 
