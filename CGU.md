@@ -144,7 +144,7 @@ Etalab s’efforce de garantir la disponibilité de la plateforme 99,5 % du temp
 
 Etalab propose, au choix du Contributeur, la publication de Jeux de données, via l’interface web de la plateforme, par l’intermédiaire d’une interface de programmation (API web) ou par le « moissonnage » de la plateforme du Contributeur (pour les sites compatibles).
 
-Etalab donne accès, au choix de l’utilisateur, aux Jeux de données via l’interface web ou par l’intermédiaire d’une API web.
+Etalab donne accès, au choix de l’Utilisateur, aux Jeux de données via l’interface web ou par l’intermédiaire d’une API web.
 
 Etalab s’engage à prendre toutes précautions utiles pour préserver l’intégrité des Jeux de données mis à disposition, et notamment empêcher qu’ils soient déformés ou endommagés.
 
