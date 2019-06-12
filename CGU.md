@@ -130,7 +130,7 @@ Les ressources des Jeux de données sont soumises à la licence choisie par le C
 
 Les discussions ont vocation à porter sur le Jeu de données publié. Les Contributeurs ne publient pas de messages de nature publicitaire ou promotionnelle, à caractère raciste ou diffamatoire, grossier ou injurieux, agressif ou violent ou de façon générale qui contreviendrait aux bonnes mœurs, l’ordre public ou aux dispositions légales en vigueur.
 
-Les contributeurs publiant un commentaire dans une discussion cèdent leurs droits de propriété intellectuelle sur ceux-ci de façon non exclusive, à titre gracieux, pour le monde entier, pour toute la durée de ces droits.
+Les Contributeurs publiant un commentaire dans une discussion cèdent leurs droits de propriété intellectuelle sur ceux-ci de façon non exclusive, à titre gracieux, pour le monde entier, pour toute la durée de ces droits.
 
 ### Utilisation de contact [info@data.gouv.fr](mailto:info@data.gouv.fr)
 
