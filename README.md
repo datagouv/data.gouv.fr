@@ -17,8 +17,8 @@ Pour créer un ticket, vous devez posséder un compte GitHub. La création d’u
 
 Pour vous faire gagner du temps, nous avons préparé des modèles de tickets, sorte de textes à trous, dont il vous suffit de remplir les blancs pour créer un ticket bien présenté :
 
-* [signaler un bug ou un problème](https://github.com/etalab/data.gouv.fr/issues/new?template=signalement-de-bug.md)&nbsp;;
-* [demander ou proposer une nouvelle fonctionnalité](https://github.com/etalab/data.gouv.fr/issues/new?template=demande-de-fonctionnalit-.md)&nbsp;;
+* [signaler un bug ou un problème](https://github.com/etalab/data.gouv.fr/issues/new?template=signaler-un-bug.md)&nbsp;;
+* [demander ou proposer une nouvelle fonctionnalité](https://github.com/etalab/data.gouv.fr/issues/new?template=proposer-une-am-lioration.md)&nbsp;;
 * [créer un ticket libre](https://github.com/etalab/data.gouv.fr/issues/new).
 
 ## Liens utiles
