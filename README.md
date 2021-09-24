@@ -1,3 +1,20 @@
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/60264344/134747747-22269da1-5f44-4942-b01e-c087f86627e7.png">  
+</p>
+<p align="center">
+    <i>✨ Guichet technique de la plateforme data.gouv.fr ✨</i>
+    <br>
+    <br>
+    <img src="https://img.shields.io/github/issues/etalab/data.gouv.fr">
+    <img src="https://img.shields.io/github/issues-closed/etalab/data.gouv.fr">
+    <img src="https://img.shields.io/github/contributors/etalab/data.gouv.fr">
+</p>
+
+- [Guichet de data.gouv.fr](#guichet-de-datagouvfr)
+  - [Comment contribuer](#comment-contribuer)
+    - [Modèles de tickets](#modèles-de-tickets)
+  - [Liens utiles](#liens-utiles)
+
 # Guichet de data.gouv.fr
 
 Ce dépôt ne contient pas de code, il sert uniquement de guichet technique à la plateforme [data.gouv.fr](https://www.data.gouv.fr/fr/).
