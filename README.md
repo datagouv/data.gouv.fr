@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/60264344/134747747-22269da1-5f44-4942-b01e-c087f86627e7.png">  
+    <img src="https://user-images.githubusercontent.com/60264344/134811328-178377e1-dd7b-4397-80ed-2129bcf0abeb.png">  
 </p>
 <p align="center">
     <i>✨ Guichet technique de la plateforme data.gouv.fr ✨</i>
