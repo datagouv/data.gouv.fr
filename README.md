@@ -21,7 +21,7 @@ Ce dépôt ne contient pas de code, il sert uniquement de guichet technique à l
 
 Pour voir le code de [data.gouv.fr](https://www.data.gouv.fr/fr/), reportez-vous aux dépôts&nbsp;:
 
-* [etalab/udata-front](https://github.com/etalab/udata-front), pour le thème de data.gouv.fr&nbsp;;
+* [datagouv/udata-front](https://github.com/datagouv/udata-front), pour le thème de data.gouv.fr&nbsp;;
 * [opendatateam/udata](https://github.com/opendatateam/udata), pour le moteur de data.gouv.fr.
 
 ## Comment contribuer
