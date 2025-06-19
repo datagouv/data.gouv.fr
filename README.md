@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/60264344/134811328-178377e1-dd7b-4397-80ed-2129bcf0abeb.png">  
+    <img src="https://private-user-images.githubusercontent.com/60264344/457001267-3a3c0566-b628-49c5-97df-4096d3665965.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTAzMzg4NjUsIm5iZiI6MTc1MDMzODU2NSwicGF0aCI6Ii82MDI2NDM0NC80NTcwMDEyNjctM2EzYzA1NjYtYjYyOC00OWM1LTk3ZGYtNDA5NmQzNjY1OTY1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjE5VDEzMDkyNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNhNmExYzIyZjhkMzg0ZTQ3NDEzOGM1ZWIxMzI3YjZiOGNkZTgyY2YxNTkyZTM0YzQ0MWNhNWEzYzgwZmVmYjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.0S-vzY5iRS31y7bYiAgZWHQNpoQcP4T_jUrzvgNH_Og">  
 </p>
 <p align="center">
     <i>✨ Guichet technique de la plateforme data.gouv.fr ✨</i>
