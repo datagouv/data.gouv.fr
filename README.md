@@ -17,16 +17,16 @@
 
 # Guichet de data.gouv.fr
 
-Ce dépôt ne contient pas de code, il sert uniquement de guichet technique à la plateforme [data.gouv.fr](https://www.data.gouv.fr/fr/).
+Ce dépôt ne contient pas de code, il sert uniquement de guichet technique à la plateforme [data.gouv.fr](https://www.data.gouv.fr/).
 
 Pour voir le code de [data.gouv.fr](https://www.data.gouv.fr/fr/), reportez-vous aux dépôts&nbsp;:
 
-* [datagouv/udata-front](https://github.com/datagouv/udata-front), pour le thème de data.gouv.fr&nbsp;;
+* [datagouv/udata-front](https://github.com/datagouv/cdata), pour le front de data.gouv.fr&nbsp;;
 * [opendatateam/udata](https://github.com/opendatateam/udata), pour le moteur de data.gouv.fr.
 
 ## Comment contribuer
 
-Nous sommes très heureux de voir que vous souhaitez améliorer [data.gouv.fr](https://www.data.gouv.fr/fr/). Si vous avez trouvé un bug, ou si vous souhaitez nous proposer une idée de fonctionnalité, le meilleur moyen de communiquer avec nous consiste à [créer un ticket](https://github.com/etalab/data.gouv.fr/issues/new/choose) (_issue_ en anglais).
+Nous sommes très heureux de voir que vous souhaitez améliorer [data.gouv.fr](https://www.data.gouv.fr/). Si vous avez trouvé un bug, ou si vous souhaitez nous proposer une idée de fonctionnalité, le meilleur moyen de communiquer avec nous consiste à [créer un ticket](https://github.com/etalab/data.gouv.fr/issues/new/choose) (_issue_ en anglais).
 
 Pour créer un ticket, vous devez posséder un compte GitHub. La création d’un compte GitHub est gratuite, elle ne prend que quelques secondes. Vous n’avez rien à installer, tout se fait en ligne, dans votre navigateur : https://github.com/join.
 
@@ -42,10 +42,10 @@ Pour vous faire gagner du temps, nous avons préparé des modèles de tickets, s
 
 Pour en savoir plus sur [data.gouv.fr](https://www.data.gouv.fr/fr/), consultez les liens suivants&nbsp;:
 
-* [en savoir plus sur le fonctionnement de data.gouv.fr](https://github.com/etalab/data.gouv.fr/wiki)&nbsp;;
-* [les conditions générales d’utilisation de data.gouv.fr](https://github.com/etalab/data.gouv.fr/blob/master/CGU.md)&nbsp;;
-* [la documentation de data.gouv.fr](https://doc.data.gouv.fr)&nbsp;;
-* [l’API de data.gouv.fr](https://www.data.gouv.fr/fr/apidoc/)&nbsp;;
-* [le wiki de data.gouv.fr](https://github.com/etalab/data.gouv.fr/wiki)&nbsp;;
+* [en savoir plus sur le fonctionnement de udata](https://udata.readthedocs.io/en/stable/)&nbsp;;
+* [les modalités d’utilisation de data.gouv.fr](https://www.data.gouv.fr/pages/legal/cgu)&nbsp;;
+* [la documentation de data.gouv.fr](https://guides.data.gouv.fr/guide-data.gouv.fr)&nbsp;;
+* [l’API de data.gouv.fr](https://guides.data.gouv.fr/guide-data.gouv.fr/readme-1)&nbsp;;
 * [le blog de data.gouv.fr](https://www.data.gouv.fr/fr/posts/)&nbsp;;
-* [suivre @datagouvfr sur Twitter](https://twitter.com/datagouvfr).
+* [suivre @datagouvfr sur Mastodon](https://social.numerique.gouv.fr/@datagouvfr)&nbsp;;
+* [suivre @datagouvfr sur Bluesky](https://bsky.app/profile/datagouvfr.bsky.social).
